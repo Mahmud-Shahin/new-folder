@@ -1,0 +1,17 @@
+
+.img-full{
+    width: 600px;
+    height: 700px;
+}
+h1{
+    color: rgb(114, 5, 192);
+}
+.inputfield{
+    background-color: rgb(202, 202, 202);
+}
+
+@media only screen and (max-width:480px) {
+    .save-button{
+        margin-top: 5px;
+    }
+    }
